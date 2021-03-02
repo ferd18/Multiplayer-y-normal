@@ -1,0 +1,10 @@
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\bin\Debug\TicTacToe Jugador vs Jugador.exe.config
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\bin\Debug\TicTacToe Jugador vs Jugador.exe
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\bin\Debug\TicTacToe Jugador vs Jugador.pdb
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe Jugador vs Jugador.csprojAssemblyReference.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe_Jugador_vs_Jugador.Form1.resources
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe_Jugador_vs_Jugador.Properties.Resources.resources
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe Jugador vs Jugador.csproj.GenerateResource.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe Jugador vs Jugador.csproj.CoreCompileInputs.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe Jugador vs Jugador.exe
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Jugador vs Jugador\TicTacToe Jugador vs Jugador\obj\Debug\TicTacToe Jugador vs Jugador.pdb

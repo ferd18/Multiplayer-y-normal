@@ -1,0 +1,11 @@
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\bin\Debug\TicTacToe Multiplayer.exe.config
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\bin\Debug\TicTacToe Multiplayer.exe
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\bin\Debug\TicTacToe Multiplayer.pdb
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe Multiplayer.csprojAssemblyReference.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe_Multiplayer.Form1.resources
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe_Multiplayer.Juego.resources
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe_Multiplayer.Properties.Resources.resources
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe Multiplayer.csproj.GenerateResource.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe Multiplayer.csproj.CoreCompileInputs.cache
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe Multiplayer.exe
+D:\TAREA\PROGRAMACION APLICADA\TicTacToe Multiplayer\TicTacToe Multiplayer\obj\Debug\TicTacToe Multiplayer.pdb
